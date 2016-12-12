@@ -7,3 +7,10 @@ web mvc setup
 web mvc all --package ~.web
 exit
 // Spring Roo 1.3.2.RELEASE [rev 8387857] log closed at 2559-12-12 21:44:28
+// Spring Roo 1.3.2.RELEASE [rev 8387857] log opened at 2559-12-12 21:50:36
+hint
+entity jpa --class ~.domain.eiei
+field string --fieldName eieiza
+web mvc all --package ~.web
+exit
+// Spring Roo 1.3.2.RELEASE [rev 8387857] log closed at 2559-12-12 21:53:01
